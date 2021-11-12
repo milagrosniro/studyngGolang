@@ -1,0 +1,1 @@
+que hace el %q y %d?
